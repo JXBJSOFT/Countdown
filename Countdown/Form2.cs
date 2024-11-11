@@ -175,5 +175,11 @@ namespace Countdown
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string colorPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "color.txt");
+            SaveDateToFile(colorPath, textBox1.ToString());
+        }
     }
 }

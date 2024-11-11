@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Countdown.exe" size="451008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Countdown.exe" size="452032">
       <assemblyIdentity name="Countdown" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BWSg5CJFXL6h8JLmdeW7uvHD+mUT3fHfR04R8RNe+LI=</dsig:DigestValue>
+        <dsig:DigestValue>/FypP4Zwqt0XrhzShBpyEWgJ95PWUOazuOhNoJwVGm8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tqksNN3Fp1MlmOiuywtWWyVAf3UVJFJ2aLTMRSnDqJs=</dsig:DigestValue>
+        <dsig:DigestValue>YS4wYH5F3QR8OmzyZdQhIFeebpifSLWoHX3LloqfmIE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

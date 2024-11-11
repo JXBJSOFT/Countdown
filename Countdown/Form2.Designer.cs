@@ -50,6 +50,9 @@
             this.SaveStartedDate = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.SaveAll = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -254,12 +257,44 @@
             this.SaveAll.UseVisualStyleBackColor = false;
             this.SaveAll.Click += new System.EventHandler(this.SaveAll_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("宋体", 14F);
+            this.textBox1.Location = new System.Drawing.Point(225, 473);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(257, 39);
+            this.textBox1.TabIndex = 22;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("宋体", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label10.Location = new System.Drawing.Point(39, 473);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(152, 28);
+            this.label10.TabIndex = 23;
+            this.label10.Text = "便签颜色：";
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("宋体", 12F);
+            this.button1.Location = new System.Drawing.Point(504, 460);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(237, 56);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "保存";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(252)))), ((int)(((byte)(252)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(777, 459);
+            this.ClientSize = new System.Drawing.Size(777, 548);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.SaveAll);
             this.Controls.Add(this.SaveStartedDate);
             this.Controls.Add(this.label6);
@@ -316,5 +351,8 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button SaveStartedDate;
         private System.Windows.Forms.Button SaveAll;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Button button1;
     }
 }

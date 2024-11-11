@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\computer_programme\\C-Sharp\\Countdown\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|D:\\computer_programme\\C-Sharp\\Countdown\\countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|d:\\computer_programme\\c-sharp\\countdown\\countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|d:\\computer_programme\\c-sharp\\countdown\\countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|D:\\computer_programme\\C-Sharp\\Countdown\\countdown\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|D:\\computer_programme\\C-Sharp\\Countdown\\countdown\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|D:\\computer_programme\\C-Sharp\\Countdown\\countdown\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|D:\\computer_programme\\C-Sharp\\Countdown\\countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F75ABC3-1466-47F2-B8CE-EA19787363AC}|Countdown\\Countdown.csproj|solutionrelative:countdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form1.cs",
               "RelativeDocumentMoniker": "Countdown\\Form1.cs",
@@ -53,7 +49,7 @@
               "RelativeDocumentMoniker": "Countdown\\Form1.cs",
               "ToolTip": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form1.cs",
               "RelativeToolTip": "Countdown\\Form1.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAqwIUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T04:49:53.236Z",
               "IsPinned": true,
@@ -61,42 +57,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form2.cs",
               "RelativeDocumentMoniker": "Countdown\\Form2.cs",
               "ToolTip": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form2.cs",
               "RelativeToolTip": "Countdown\\Form2.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwLIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAMwK4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T04:21:53.503Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Countdown\\Form1.Designer.cs",
-              "ToolTip": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form1.Designer.cs",
-              "RelativeToolTip": "Countdown\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T10:58:03.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form2.cs",
               "RelativeDocumentMoniker": "Countdown\\Form2.cs",
               "ToolTip": "D:\\computer_programme\\C-Sharp\\Countdown\\Countdown\\Form2.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Countdown\\Form2.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:21:35.699Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-10-02T04:21:35.699Z"
             }
           ]
         }
